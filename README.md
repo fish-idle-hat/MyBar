@@ -1,7 +1,7 @@
 <p align="center"><img src="docs/media/hero.png" alt="MyBar — Your Mac, at a glance" width="100%"></p>
 
 <p align="center">
-  <a href="https://github.com/fish-idle-hat/MyBar/releases/latest"><strong>Download build 20</strong></a> ·
+  <a href="https://github.com/fish-idle-hat/MyBar/releases/tag/v1.1.20"><strong>Download build 20</strong></a> ·
   <a href="#build-from-source">Build from source</a>
 </p>
 
