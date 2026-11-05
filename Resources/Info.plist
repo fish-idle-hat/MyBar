@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>MyBar</string>
+	<key>CFBundleExecutable</key>
+	<string>ThermoBar</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.thermobar.app</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MyBar</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>20</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.2</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>MyBar uses system audio access only when you adjust an individual app's volume or route it to a separate output device.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>MyBar uses media app automation only when you press a Play/Pause control.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Mood Compass optionally reads event times to estimate upcoming workload on this Mac. It never saves event titles or edits your calendars.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Mood Compass optionally counts today's completed and due reminders for local workload estimates. It never saves reminder text or modifies tasks.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Mood Compass optionally uses a coarse location fix to estimate daylight locally. Coordinates are never saved or uploaded.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Mood Compass optionally uses a coarse location fix to estimate daylight locally. Coordinates are never saved or uploaded.</string>
+</dict>
+</plist>
