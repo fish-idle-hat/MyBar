@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fish-idle-hat/MyBar/releases/tag/v1.1.20"><strong>Download build 20</strong></a> ·
+  <a href="https://github.com/fish-idle-hat/MyBar/releases/download/v1.1.20/MyBar-screen-recording-demo.mp4">Video demo</a> ·
   <a href="#build-from-source">Build from source</a>
 </p>
 
@@ -11,6 +12,14 @@ A native macOS menu bar utility for system monitoring, per-app audio and local i
 
 **Version 1.1 · Build 20 · Development preview**  
 The downloadable app is for **Apple silicon** and requires **macOS 14.2 or later**. This is an ad-hoc signed, non-notarized development build; macOS may block downloaded copies. Build from source if it does. Hardware and private-API compatibility varies by Mac and macOS version.
+
+## Video demo
+
+<p align="center"><a href="https://github.com/fish-idle-hat/MyBar/releases/download/v1.1.20/MyBar-screen-recording-demo.mp4"><img src="docs/media/screen-recording-poster.jpg" alt="MyBar running on a Mac in the owner's screen recording" width="420"></a></p>
+
+**[Watch the screen recording — 1 minute 51 seconds](https://github.com/fish-idle-hat/MyBar/releases/download/v1.1.20/MyBar-screen-recording-demo.mp4)**
+
+A screen recording supplied by the project owner, showing MyBar in actual use. The full recording is presented without cuts or added narration, converted to MP4 for playback. It shows one Mac and session; compatibility on other systems may differ. [Recording details](docs/Media.md).
 
 ## What is inside
 
@@ -62,7 +71,7 @@ The package has no external Swift package dependencies. The build script package
 
 The build 20 release suite ran **196 tests: 192 passed, 4 skipped, 0 failures**. Skips cover opt-in audio/performance probes and a debug-path helper check. Packaged release checks cover signatures, pet assets, sound assets, helper protocol, broken-pipe isolation and disabled menu-hiding helper. See [release notes](docs/Release-build20.md).
 
-Monitoring and optional data histories stay on the Mac. Optional features may read foreground-app identity, local activity signals, calendars/reminders or coarse daylight context when enabled and permitted; see each feature guide before opting in. Published screenshots use sample data and contain no personal history or desktop captures.
+Monitoring and optional data histories stay on the Mac. Optional features may read foreground-app identity, local activity signals, calendars/reminders or coarse daylight context when enabled and permitted; see each feature guide before opting in. The designed graphics use sample data; the linked video is a screen recording explicitly supplied by the project owner.
 
 ## Documentation and assets
 

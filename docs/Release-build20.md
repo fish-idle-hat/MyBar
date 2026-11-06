@@ -13,6 +13,7 @@ automatically by the release. Real browser tab switching remains unverified.
 
 - `MyBar-1.1-build20-arm64.zip`: Apple silicon app, macOS 14.2+.
 - `MyBar-build20-visuals.zip`: banner, feature graphic, social card and screenshots.
+- `MyBar-screen-recording-demo.mp4`: the owner-supplied screen recording, converted to MP4.
 - `SHA256SUMS.txt`: SHA-256 checksums for these assets.
 - GitHub's source archives: the exact tagged source.
 
