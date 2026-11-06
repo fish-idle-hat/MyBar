@@ -19,7 +19,7 @@ The downloadable app is for **Apple silicon** and requires **macOS 14.2 or later
 
 **[Watch the screen recording — 1 minute 51 seconds](https://github.com/fish-idle-hat/MyBar/releases/download/v1.1.20/MyBar-screen-recording-demo.mp4)**
 
-A screen recording supplied by the project owner, showing MyBar in actual use. The full recording is presented without cuts or added narration, converted to MP4 for playback. It shows one Mac and session; compatibility on other systems may differ. [Recording details](docs/Media.md).
+This screen recording shows how MyBar looks like in everyday usage. The full recording is presented without cuts or added narration, converted to MP4 for playback. It shows one Mac and session; compatibility on other systems may differ. [Recording details](docs/Media.md).
 
 ## What is inside
 
